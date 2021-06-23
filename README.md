@@ -4,7 +4,7 @@ Scripts developed in Caml light to draw fractals such as the Mandelbrot set or J
 
 ![alt text](https://github.com/AdrienC21/fractals-caml/blob/main/images/julia.png?raw=true)
 
-_Here, c = -0.181 -0.667 i_
+_Here, a Julia set with c = -0.181 -0.667 i_
 
 ## Overview
 
